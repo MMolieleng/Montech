@@ -1,0 +1,37 @@
+@import "https://stackpath.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css";
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans:wght@300;400;800&display=swap');
+
+body{
+    background-color: #f5f5ff;
+    font-family: 'Open Sans', sans-serif;
+}
+
+.btn .btn-primary{
+    background-color: #1acc8d;
+}
+
+.btn-primary{
+    background: #1acc8d;
+    border: #1acc8d;
+    border-radius: 0%;
+}
+
+.text-montech{
+    color: #010483;
+}
+
+h4{
+    text-transform: capitalize;
+    font-size: 36px;
+    font-weight: 700;
+    color: #010483;
+}
+
+.card{
+    border: 0px;
+}
+
+.bg-montech{
+    background: #010483;
+    color: #f5f5ff;
+}
